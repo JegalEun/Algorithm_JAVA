@@ -7,9 +7,7 @@
 
 ## 📏 Rule
 1. 매일매일 1문제
-2. Commit Message : 
-            - '[Update] BOJ문제번호'
-            - '[Update] README.md'
+2. Commit Message : '[Update] BOJ문제번호', '[Update] README.md'
 
 ## ✏️ Level
 
