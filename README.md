@@ -1,5 +1,5 @@
 # Algorithm
-매일매일 JAVA 백준 문제 풀이
+매일매일 `JAVA` 백준 문제 풀이
 
 ## 🔍 Site
 - [Solved.ac](https://solved.ac)
