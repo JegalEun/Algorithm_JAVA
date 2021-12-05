@@ -7,7 +7,7 @@
 
 ## 📏 Rule
 1. 매일매일 1문제
-2. Commit Message : '[Update] BOJ문제번호', '[Update] README.md'
+2. Commit Message : '[Update] BOJ문제번호_문제이름', '[Update] README.md'
 
 ## ✏️ Level
 
@@ -22,3 +22,4 @@
 - [1159 농구경기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1159.java)
 - [1076 저항](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1076.java)
 - [2562 최댓값](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ2562.java)
+- [1688 트로피진열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1668.java)
