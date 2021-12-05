@@ -21,3 +21,4 @@
 - [1223 주사위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1233.java)
 - [1159 농구경기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1159.java)
 - [1076 저항](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1076.java)
+- [2562 최댓값](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ2562.java)
