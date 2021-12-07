@@ -24,3 +24,4 @@
 - [2562 최댓값](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ2562.java)
 - [1688 트로피진열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1668.java)
 - [1673 치킨 쿠폰](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1673.java)
+- [애너그램 만들기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1919.java)
