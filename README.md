@@ -27,3 +27,4 @@
 - [1919 애너그램 만들기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1919.java)
 - [2309 일곱난쟁이](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ2309.java) 
 - [3052 나머지](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ3052.java)
+- [2292 벌집](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ2292.java)
