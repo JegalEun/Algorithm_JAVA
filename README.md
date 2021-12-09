@@ -30,4 +30,4 @@
 - [2292 벌집](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ2292.java)
 
 ### Bronze 3
-- [5565 영수증] (https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ5565.java)
+- [5565 영수증](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ5565.java)
