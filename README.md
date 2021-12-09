@@ -28,3 +28,6 @@
 - [2309 일곱난쟁이](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ2309.java) 
 - [3052 나머지](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ3052.java)
 - [2292 벌집](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ2292.java)
+
+### Bronze 3
+- [5565 영수증] (https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ5565.java)
