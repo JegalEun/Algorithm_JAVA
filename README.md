@@ -17,6 +17,7 @@
 ### Silver 4
 ### Bronze 1
 - [단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
+- [평균](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1546.java)
 
 ### Bronze 2
 - [1223 주사위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1233.java)
