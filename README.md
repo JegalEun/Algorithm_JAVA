@@ -15,6 +15,8 @@
 ### Silver 2
 ### Silver 3
 ### Silver 4
+- [스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
+
 ### Bronze 1
 - [단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
 - [평균](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1546.java)
