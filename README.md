@@ -15,12 +15,12 @@
 ### Silver 2
 ### Silver 3
 ### Silver 4
-- [스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
-- [큐](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10845.java)
+- [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
+- [10845 큐](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10845.java)
 
 ### Bronze 1
-- [단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
-- [평균](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1546.java)
+- [1157 단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
+- [1546 평균](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1546.java)
 
 ### Bronze 2
 - [1223 주사위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1233.java)
