@@ -16,6 +16,8 @@
 - [9012 괄호](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9012.java)
 
 ### Silver 3
+- [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
+
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
 - [10845 큐](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10845.java)
