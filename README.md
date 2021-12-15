@@ -26,6 +26,7 @@
 - [1157 단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
 - [1546 평균](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1546.java)
 - [9093 단어 뒤집기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9093.java)
+- [2839 설탕 배달](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ2839.java)
 
 ### Bronze 2
 - [1223 주사위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1233.java)
