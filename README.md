@@ -17,6 +17,7 @@
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
+- [에디터](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1406.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
