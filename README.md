@@ -17,7 +17,7 @@
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
-- [에디터](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1406.java)
+- [1406 에디터](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1406.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
@@ -28,6 +28,7 @@
 - [1546 평균](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1546.java)
 - [9093 단어 뒤집기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9093.java)
 - [2839 설탕 배달](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ2839.java)
+- [4344 평균은 넘겠지](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ4344.java)
 
 ### Bronze 2
 - [1223 주사위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week01/BOJ1233.java)
