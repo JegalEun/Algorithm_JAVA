@@ -23,6 +23,9 @@
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
 - [10845 큐](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10845.java)
 
+### Silver 5
+- [1181 단어 정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1181.java)
+
 ### Bronze 1
 - [1157 단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
 - [1546 평균](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1546.java)
