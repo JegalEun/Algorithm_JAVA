@@ -26,6 +26,7 @@
 
 ### Silver 5
 - [1181 단어 정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1181.java)
+- [1934 최소공배수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1934.java)
 
 ### Bronze 1
 - [1157 단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
