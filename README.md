@@ -19,6 +19,7 @@
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
 - [1406 에디터](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1406.java)
 - [17413 단어뒤집기2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ17413.java)
+- [10799 쇠막대기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ10799.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
