@@ -11,7 +11,13 @@
 
 ## ✏️ Level
 
+### Gold 4
+- [17298 오큰수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ17298.java)
+
+### Gold 5
+
 ### Silver 1
+
 ### Silver 2
 - [9012 괄호](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9012.java)
 
