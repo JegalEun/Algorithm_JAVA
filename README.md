@@ -30,6 +30,7 @@
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
 - [10845 큐](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10845.java)
+- [1764 듣보잡](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1764.java)
 
 ### Silver 5
 - [1181 단어 정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1181.java)
