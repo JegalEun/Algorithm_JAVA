@@ -11,6 +11,9 @@
 
 ## ✏️ Level
 
+### Gold 3
+- [17299 오등큰수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ17299.java)
+
 ### Gold 4
 - [17298 오큰수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ17298.java)
 
