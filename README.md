@@ -16,6 +16,7 @@
 
 ### Gold 4
 - [17298 오큰수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ17298.java)
+- [1918 후위 표기식](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1918.java)
 
 ### Gold 5
 
@@ -27,9 +28,9 @@
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
 - [1406 에디터](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1406.java)
-- [17413 단어뒤집기2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ17413.java)
+- [17413 단어 뒤집기2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ17413.java)
 - [10799 쇠막대기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ10799.java)
-- [1935 후위표기식2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1935.java)
+- [1935 후위 표기식2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1935.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
@@ -39,7 +40,7 @@
 
 ### Silver 5
 - [1181 단어 정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1181.java)
-- [1934 최소공배수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1934.java)
+- [1934 최소 공배수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1934.java)
 
 ### Bronze 1
 - [1157 단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
