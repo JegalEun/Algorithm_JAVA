@@ -29,12 +29,13 @@
 - [1406 에디터](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1406.java)
 - [17413 단어뒤집기2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ17413.java)
 - [10799 쇠막대기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ10799.java)
+- [1935 후위표기식2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1935.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
 - [10845 큐](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10845.java)
 - [1764 듣보잡](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1764.java)
-- [14501 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ14501.java)
+- [14501 퇴사](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ14501.java)
 
 ### Silver 5
 - [1181 단어 정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1181.java)
