@@ -62,6 +62,7 @@
 - [2292 벌집](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ2292.java)
 - [10808 알파벳 개수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10808.java)
 - [10809 알파벳 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10809.java)
+- [10820 문자열 분석](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10820.java)
 
 ### Bronze 3
 - [5565 영수증](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ5565.java)
