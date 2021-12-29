@@ -35,7 +35,6 @@ public class BOJ10974 {
 			if(visit[i]!=true) 	{// 방문하지 않았다면
 				visit[i]=true;
 				output[depth]=arr[i];
-				System.out.println("depth "+depth+" arr[i] "+arr[i]);
 				perm(arr, output, visit, depth + 1, num, r);    // 재귀
 				visit[i]=false;
 			}
