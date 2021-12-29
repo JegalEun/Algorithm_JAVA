@@ -24,6 +24,8 @@
 
 ### Silver 2
 - [9012 괄호](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9012.java)
+- [10819 차이를 최대로](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10819.java)
+- [1929 소수 구하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ1929.java)
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
@@ -39,10 +41,12 @@
 - [1764 듣보잡](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1764.java)
 - [14501 퇴사](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ14501.java)
 - [11656 접미사 배열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10974.java)
+- [1978 소수 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ1978.java)
 
 ### Silver 5
 - [1181 단어 정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1181.java)
 - [1934 최소 공배수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1934.java)
+- [2609 최대공약수와 최소공배수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ2609.java)
 
 ### Bronze 1
 - [1157 단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
