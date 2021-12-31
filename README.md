@@ -35,6 +35,7 @@
 - [10799 쇠막대기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ10799.java)
 - [1935 후위 표기식2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1935.java)
 - [10974 모든 순열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10974.java)
+- [15649 N과 M(1)](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ15649.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
