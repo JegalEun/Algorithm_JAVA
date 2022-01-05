@@ -35,6 +35,7 @@
 - [10819 차이를 최대로](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10819.java)
 - [1929 소수 구하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ1929.java)
 - [17087 숨바꼭질 6](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ17087.java)
+- [17103 골드바흐 파티션](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ17103.java)
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
