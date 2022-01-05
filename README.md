@@ -1,15 +1,24 @@
 # Algorithm
-매일매일 `JAVA` 백준 문제 풀이
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+매일매일 백준 or 프로그래머스 문제 풀이
 
 ## 🔍 Site
 - [Solved.ac](https://solved.ac)
 - [BAEKJOON](https://www.acmicpc.net)
+- [programmers](https://programmers.co.kr/learn/challenges)
 
 ## 📏 Rule
 1. 매일매일 1문제 이상 문제 풀이
-2. Commit Message : '[Update] BOJ문제번호_문제이름', '[Update] README.md'
+2. Commit Message : 
 
+    - [Update] BOJ문제번호_문제이름
+    - [Update] Programmers_문제이름
+    - [Update] README.md
+    
 ## ✏️ Level
+
+## Baekjoon
 
 ### Gold 3
 - [17299 오등큰수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ17299.java)
@@ -81,3 +90,8 @@
 - [5565 영수증](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ5565.java)
 - [10824 네수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10824.java)
 - [1212 8진수 2진수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ1212.java)
+
+## Programmers
+
+### level 2
+- [소수 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/Pro소수찾기.java)
