@@ -1,15 +1,13 @@
 # Algorithm
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-매일매일 백준 or 프로그래머스 문제 풀이
-
 ## 🔍 Site
 - [Solved.ac](https://solved.ac)
 - [BAEKJOON](https://www.acmicpc.net)
 - [programmers](https://programmers.co.kr/learn/challenges)
 
 ## 📏 Rule
-1. 매일매일 1문제 이상 문제 풀이
+1. 매일매일 알고리즘 1문제 이상 문제 풀이
 2. Commit Message : 
 
     - [Update] BOJ문제번호_문제이름
@@ -94,4 +92,4 @@
 ## Programmers
 
 ### level 2
-- [소수 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/Pro소수찾기.java)
+- [소수 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/Pro소수찾기.java)
