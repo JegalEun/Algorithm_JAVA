@@ -46,6 +46,7 @@
 - [10974 모든 순열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10974.java)
 - [15649 N과 M(1)](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ15649.java)
 - [9613 GCD 합](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ9613.java)
+- [1463 1로 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ1463.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
