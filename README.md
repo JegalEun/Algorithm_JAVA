@@ -99,3 +99,4 @@
 
 ### level 1
 - [로또 최고순위와 최저 순위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/로또최고순위와%20최저순위.java)
+- [완주하지 못한 선수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/완주하지%20못한%20선수.java)
