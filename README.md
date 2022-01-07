@@ -96,6 +96,7 @@
 
 ### level 2
 - [소수 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/Pro소수찾기.java)
+- [전화번호 목록](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/전화번호%20목록.java)
 
 ### level 1
 - [로또 최고순위와 최저 순위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/로또최고순위와%20최저순위.java)
