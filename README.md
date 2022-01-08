@@ -48,6 +48,7 @@
 - [9613 GCD 합](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ9613.java)
 - [1463 1로 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ1463.java)
 - [11726 2xn 타일링](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ11726.java)
+- [11727_2xn 타일링2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ11727.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
