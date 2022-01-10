@@ -29,6 +29,7 @@
 
 ### Silver 1
 - [6588 골드바흐의 추측](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ6588.java)
+- [11052 카드 구매하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ11052.java)
 
 ### Silver 2
 - [9012 괄호](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9012.java)
