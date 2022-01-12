@@ -40,6 +40,7 @@
 - [17087 숨바꼭질 6](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ17087.java)
 - [17103 골드바흐 파티션](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ17103.java)
 - [15990 1,2,3 더하기 5](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ15990.java)
+- [11053 가장 긴 증가하는 부분 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ11053.java)
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
