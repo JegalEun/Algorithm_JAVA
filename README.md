@@ -41,6 +41,7 @@
 - [17103 골드바흐 파티션](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ17103.java)
 - [15990 1,2,3 더하기 5](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ15990.java)
 - [11053 가장 긴 증가하는 부분 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ11053.java)
+- [1912 연속합](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ1912.java)
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
@@ -51,7 +52,7 @@
 - [10974 모든 순열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10974.java)
 - [15649 N과 M(1)](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ15649.java)
 - [9613 GCD 합](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ9613.java)
-- [1463 1로 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ1463.java)
+- [1463 1로 만들기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ1463.java)
 - [11726 2xn 타일링](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ11726.java)
 - [11727_2xn 타일링2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ11727.java)
 - [9095 1,2,3 더하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ9095.java)
