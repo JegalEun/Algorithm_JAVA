@@ -26,6 +26,7 @@
 - [1918 후위 표기식](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1918.java)
 
 ### Gold 5
+- [10026 적록색약](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ10026_BFS.java)
 
 ### Silver 1
 - [6588 골드바흐의 추측](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ6588.java)
