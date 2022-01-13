@@ -42,6 +42,7 @@
 - [15990 1,2,3 더하기 5](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ15990.java)
 - [11053 가장 긴 증가하는 부분 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ11053.java)
 - [1912 연속합](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ1912.java)
+- [1260 DFS와 BFS](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ1260.java)
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
