@@ -61,6 +61,7 @@
 - [11727_2xn 타일링2](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ11727.java)
 - [9095 1,2,3 더하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ9095.java)
 - [2193 이친수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ2193.java)
+- [1699 제곱수의 합](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/BOJ1699.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
