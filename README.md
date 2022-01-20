@@ -28,6 +28,7 @@
 
 ### Gold 5
 - [10026 적록색약](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ10026_BFS.java)
+- [13023 ABCDE](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/BOJ13023.java)
 
 ### Silver 1
 - [6588 골드바흐의 추측](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ6588.java)
