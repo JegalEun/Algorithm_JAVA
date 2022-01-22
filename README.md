@@ -5,7 +5,7 @@
 - [Solved.ac](https://solved.ac)
 - [BAEKJOON](https://www.acmicpc.net)
 - [programmers](https://programmers.co.kr/learn/challenges)
-- [이것이 코딩테스트다 with 파이썬 by 나동빈]
+- 이것이 코딩테스트다 By 나동빈
 
 ## 📏 Rule
 1. 매일매일 알고리즘 1문제 이상 문제 풀이
