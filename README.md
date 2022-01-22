@@ -5,6 +5,7 @@
 - [Solved.ac](https://solved.ac)
 - [BAEKJOON](https://www.acmicpc.net)
 - [programmers](https://programmers.co.kr/learn/challenges)
+- [이것이 코딩테스트다 with 파이썬 by 나동빈]
 
 ## 📏 Rule
 1. 매일매일 알고리즘 1문제 이상 문제 풀이
@@ -12,6 +13,7 @@
 
     - [Update] BOJ문제번호_문제이름
     - [Update] Programmers_문제이름
+    - [Update] NBD_문제이름
     - [Update] README.md
     
 ## ✏️ Level
@@ -120,3 +122,8 @@
 ### level 1
 - [로또 최고순위와 최저 순위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/로또최고순위와%20최저순위.java)
 - [완주하지 못한 선수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/완주하지%20못한%20선수.java)
+
+## 이것이 코딩테스트다.
+
+### 난이도 1
+- [그리디/모험가 길드](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/NBD_모험가%20길드.java)
