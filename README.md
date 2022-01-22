@@ -123,7 +123,8 @@
 - [로또 최고순위와 최저 순위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/로또최고순위와%20최저순위.java)
 - [완주하지 못한 선수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/완주하지%20못한%20선수.java)
 
-## 이것이 코딩테스트다.
+## 이것이 코딩테스트다
 
 ### 난이도 1
 - [그리디/모험가 길드](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/NBD_모험가%20길드.java)
+- [그리디/곱하기 혹은 더하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/NDB_곱하기혹은더하기.java)
