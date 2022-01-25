@@ -133,3 +133,6 @@
 - [그리디/곱하기 혹은 더하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/NDB_곱하기혹은더하기.java)
 - [그리디/문자열 뒤집기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/NDB_문자열%20뒤집기.java)
 - [그리디/1이 될 때까지](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/NDB_1이%20될%20때까지.java)
+- [그리디/만들 수 없는 금액](https://github.com/JegalEun/Algorithm_JAVA/tree/main/Week/Week09)
+
+### level 2
