@@ -134,4 +134,11 @@
 - [그리디/문자열 뒤집기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/NDB_문자열%20뒤집기.java)
 - [그리디/1이 될 때까지](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/NDB_1이%20될%20때까지.java)
 - [그리디/만들 수 없는 금액](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/NDB_만들%20수%20없는%20금액.java)
+- [그리디/숫자 카드 게임](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/NDB_숫자카드게임.java)
+- [그리디/큰 수의 법칙](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/NDB_큰수의법칙)
+- [구현/럭키 스트레이트](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/NDB_럭키%20스트레이트.java)
+- [구현/문자열 재정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/NDB_문자열%20재정렬.java)
+
+### 난이도 1.5
+- [구현/문자열 압축](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/NDB_문자열%20압축.java)
 
