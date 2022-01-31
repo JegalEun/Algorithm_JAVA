@@ -143,4 +143,5 @@
 
 ### 난이도 1.5
 - [구현/문자열 압축](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/NDB_문자열%20압축.java)
+- [구현/자물쇠와 열쇠](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/NDB_자물쇠와%20열쇠.java)
 
