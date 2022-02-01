@@ -118,12 +118,13 @@
 ## Programmers
 
 ### level 2
-- [소수 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/Pro소수찾기.java)
+- [완전탐색/소수 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/Pro소수찾기.java)
 - [전화번호 목록](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/전화번호%20목록.java)
 - [위장](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/위장.java)
+- [완전탐색/탐색](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_카펫.java)
 
 ### level 1
-- [해시/로또 최고순위와 최저 순위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/로또최고순위와%20최저순위.java)
+- [로또 최고순위와 최저 순위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/로또최고순위와%20최저순위.java)
 - [해시/완주하지 못한 선수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/완주하지%20못한%20선수.java)
 - [완전탐색/모의고사](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_모의고사.java)
 
