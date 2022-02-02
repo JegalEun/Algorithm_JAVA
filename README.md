@@ -122,11 +122,14 @@
 - [전화번호 목록](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/전화번호%20목록.java)
 - [위장](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/위장.java)
 - [완전탐색/탐색](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_카펫.java)
+- [정렬/H-Index](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_H-Index.java)
+- [정렬/가장 큰 수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_가장%20큰%20수.java)
 
 ### level 1
 - [로또 최고순위와 최저 순위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/로또최고순위와%20최저순위.java)
 - [해시/완주하지 못한 선수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/완주하지%20못한%20선수.java)
 - [완전탐색/모의고사](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_모의고사.java)
+- [정렬/K번째 수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_K번째%20수.java)
 
 ## 이것이 코딩테스트다
 
