@@ -124,6 +124,7 @@
 - [완전탐색/탐색](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_카펫.java)
 - [정렬/H-Index](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_H-Index.java)
 - [정렬/가장 큰 수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_가장%20큰%20수.java)
+- [DFS/타겟넘버](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/Pro_타겟넘버.java)
 
 ### level 1
 - [로또 최고순위와 최저 순위](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/로또최고순위와%20최저순위.java)
@@ -149,4 +150,5 @@
 ### 난이도 1.5
 - [구현/문자열 압축](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/NDB_문자열%20압축.java)
 - [구현/자물쇠와 열쇠](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/NDB_자물쇠와%20열쇠.java)
-
+- [DFS/음료수 얼려먹기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/NDB_음료수%20얼려먹기.java)
+- [BFS/미로 탈출](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/NDB_미로%20탈출.java)
