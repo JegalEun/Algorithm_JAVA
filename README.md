@@ -52,6 +52,7 @@
 - [11053 가장 긴 증가하는 부분 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ11053.java)
 - [1912 연속합](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ1912.java)
 - [1260 DFS와 BFS](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ1260.java)
+- [18352 특정 거리의 도시 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/BOJ_18352.java)
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
