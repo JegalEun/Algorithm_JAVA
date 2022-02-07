@@ -10,7 +10,6 @@ import java.util.StringTokenizer;
 public class BOJ18405 {
 	
 	static int map[][];
-	static boolean visited[][];
 	static int dx[] = {-1,1,0,0};
 	static int dy[] = {0,0,-1,1};
 	static int n;
@@ -29,7 +28,6 @@ public class BOJ18405 {
 		k = Integer.parseInt(st.nextToken());
 		
 		map = new int[n][n];
-		visited = new boolean[n][n];
 		
 		for(int i=0;i<n;i++) {
 			st = new StringTokenizer(br.readLine());
@@ -45,10 +43,18 @@ public class BOJ18405 {
 		x = Integer.parseInt(st.nextToken());
 		y = Integer.parseInt(st.nextToken());
 		
+		boolean isTrue=false;
+		
 		for(int i=0;i<s;i++) {
 			for(int j=0;j<k;j++) {
 				bfs(j+1);
-				
+				if(map[x-1][y-1]!=0) {
+					isTrue=true;
+					break;
+				}
+			}
+			if(isTrue) {
+				break;
 			}
 		}
 		
@@ -72,11 +78,8 @@ public class BOJ18405 {
 			
 		for(int i=0;i<n;i++) {
 			for(int j=0;j<n;j++) {
-				if(!visited[i][j]) {
 					if(map[i][j]==num) {
 						q.offer(new Node(i,j));
-						visited[i][j]=true;
-					}
 				}
 			}
 		}
