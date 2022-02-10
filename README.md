@@ -43,6 +43,7 @@
 - [2178 미로 탐색](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ2178.java)
 - [1309 동물원](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/BOJ1309.java)
 - [18405 경쟁적 전염](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week11/BOJ18405.java)
+- [14888 연산자 끼워넣기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week11/BOJ14888.java)
 
 ### Silver 2
 - [9012 괄호](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9012.java)
