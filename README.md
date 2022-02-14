@@ -84,6 +84,7 @@
 - [11656 접미사 배열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10974.java)
 - [1978 소수 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ1978.java)
 - [1676 팩토리얼 0의 개수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ1676.java)
+- [10825 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week12/BOJ10825.java)
 
 ### Silver 5
 - [1181 단어 정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1181.java)
