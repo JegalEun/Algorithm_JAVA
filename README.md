@@ -27,6 +27,7 @@
 - [17298 오큰수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ17298.java)
 - [1918 후위 표기식](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week04/BOJ1918.java)
 - [14002 가장 긴 증가하는 부분 수열4](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ14002.java)
+- [1915 가장 큰 정사각형](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week13/BOJ1915.java)
 
 ### Gold 5
 - [10026 적록색약](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ10026_BFS.java)
