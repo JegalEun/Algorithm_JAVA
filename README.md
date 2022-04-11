@@ -59,6 +59,7 @@
 - [1260 DFS와 BFS](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week07/BOJ1260.java)
 - [18352 특정 거리의 도시 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/BOJ_18352.java)
 - [4962 섬의 개수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week11/BOJ4963.java)
+- [14889 스타트와 링크](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week14/BOJ14889.java)
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
