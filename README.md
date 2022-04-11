@@ -127,6 +127,9 @@
 
 ## Programmers
 
+### level 3
+- [동적계획법/등굣길](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week14/Pro_등굣길.java)
+
 ### level 2
 - [완전탐색/소수 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/Pro소수찾기.java)
 - [전화번호 목록](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/전화번호%20목록.java)
