@@ -129,6 +129,7 @@
 
 ### level 3
 - [동적계획법/등굣길](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week14/Pro_등굣길.java)
+- [동적계획법/멀리뛰기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week14/Pro_멀리뛰기.java)
 
 ### level 2
 - [완전탐색/소수 찾기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/Pro소수찾기.java)
