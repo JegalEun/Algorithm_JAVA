@@ -35,6 +35,7 @@
 - [2225 합분해](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/BOJ2225.java)
 - [1107 리모컨](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/BOJ1107.java)
 - [14502 연구소](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week10/BOJ14502_연구소.java)
+- [2565 전깃줄](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week14/BOJ2565.java)
 
 ### Silver 1
 - [6588 골드바흐의 추측](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ6588.java)
