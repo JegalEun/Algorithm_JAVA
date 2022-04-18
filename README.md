@@ -63,6 +63,7 @@
 - [4962 섬의 개수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week11/BOJ4963.java)
 - [14889 스타트와 링크](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week14/BOJ14889.java)
 - [1012 유기농 배추](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week14/BOJ1012.java)
+- [DFS/11724 연결요소의 개수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week15/BOJ11724.java)
 
 ### Silver 3
 - [1874 스택 수열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1874.java)
