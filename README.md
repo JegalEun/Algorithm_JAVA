@@ -97,6 +97,7 @@
 - [1676 팩토리얼 0의 개수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ1676.java)
 - [10825 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week12/BOJ10825.java)
 - [스택/4949 균형잡힌 세상](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week15/BOJ4949.java)
+- [덱/10866 덱](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week15/BOJ10866.java)
 
 ### Silver 5
 - [1181 단어 정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1181.java)
