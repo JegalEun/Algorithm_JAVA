@@ -87,7 +87,8 @@
 - [3085 사탕 게임](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week08/BOJ3085.java)
 - [1654 랜선자르기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week13/BOJ1654.java)
 - [2606 바이러스](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week13/BOJ2606.java)
-- [10972 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week15/BOJ10972.java)
+- [구현/10972 다음순열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week15/BOJ10972.java)
+- [구현/10973 이전순열](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week15/BOJ10973.java)
 
 ### Silver 4
 - [10828 스택](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ10828.java)
