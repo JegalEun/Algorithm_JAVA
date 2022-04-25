@@ -30,6 +30,7 @@ class Solution {
     			   answer++;
     			   reserve[j]=-1;
     			   break;
+                   
     		   }
     	   }
        }
