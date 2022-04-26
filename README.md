@@ -52,6 +52,7 @@
 - [2667 단지번호 붙이기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week11/BOJ2667.java)
 - [구현/1074 Z](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week15/BOJ1074.java)
 - [BFS/전쟁-전투](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week16/BOJ1303.java)
+- [BFS/안전 영역](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week16/BOJ2468.java)
 
 ### Silver 2
 - [9012 괄호](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9012.java)
