@@ -104,6 +104,7 @@
 - [10825 ](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week12/BOJ10825.java)
 - [스택/4949 균형잡힌 세상](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week15/BOJ4949.java)
 - [덱/10866 덱](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week15/BOJ10866.java)
+- [2960 에라토스테세트의 체](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week16/BOJ2960.java)
 
 ### Silver 5
 - [1181 단어 정렬](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ1181.java)
