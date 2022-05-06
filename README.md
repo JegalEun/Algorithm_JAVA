@@ -56,6 +56,7 @@
 - [BFS/안전 영역](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week16/BOJ2468.java)
 - [이분 탐색/2343 기타 레슨](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week17/BOJ2343.java)
 - [DP/1149 RGB 거리](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week17/BOJ1149.java)
+- [DFS/1743 음식물 피하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week17/BOJ1743.java)
 
 ### Silver 2
 - [9012 괄호](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9012.java)
