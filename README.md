@@ -58,6 +58,7 @@
 - [DP/1149 RGB 거리](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week17/BOJ1149.java)
 - [DFS/1743 음식물 피하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week17/BOJ1743.java)
 - [구현/9081 단어 맞추기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week18/BOJ9081.java)
+- [DFS/2583 영여 구하기](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week18/BOJ2583.java)
 
 ### Silver 2
 - [9012 괄호](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week03/BOJ9012.java)
