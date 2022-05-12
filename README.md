@@ -149,6 +149,7 @@
 - [5565 영수증](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ5565.java)
 - [10824 네수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ10824.java)
 - [1212 8진수 2진수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ1212.java)
+- [문자열/3029 경고](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week18/BOJ3029.java)
 
 ## Programmers
 
