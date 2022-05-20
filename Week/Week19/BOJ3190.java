@@ -8,105 +8,96 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class BOJ3190 {
+public class BOJ3190_re {
 	
-	static int dx[] = {0,1,0,-1};
-	static int dy[] = {1,0,-1,0};		// 동남서북
 	static int n;
-	static int num;
 	static int map[][];
-	static String baam[][];
+	static int dx[] = {0,1,0,-1};	// 동남서북
+	static int dy[] = {1,0,-1,0};
+	static List<int[]> list;
 	static int time=0;
-	static List<int[]> snake;
 	static HashMap<Integer, String> hm = new HashMap<>();
-	
+
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		// TODO Auto-generated method stub
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		
 		n = Integer.parseInt(br.readLine());
+		int num = Integer.parseInt(br.readLine());
+		
 		map = new int[n+1][n+1];
-		num = Integer.parseInt(br.readLine());
 		
-		for(int i=1;i<=num;i++) {
+		// 사과 위치 1로 설정
+		for(int i=0;i<num;i++) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
-			int temp_x = Integer.parseInt(st.nextToken());
-			int temp_y = Integer.parseInt(st.nextToken());
-			
-			map[temp_x][temp_y]=1;
-			// 사과가 있는 곳에 1삽입
+			int a = Integer.parseInt(st.nextToken());
+			int b = Integer.parseInt(st.nextToken());
+			map[a][b]=1;
 		}
-		
-		// 뱀 방향 정보 입력
+		// 뱀의 방향정보 입력
 		int number = Integer.parseInt(br.readLine());
-		baam = new String[number][2];
 		for(int i=0;i<number;i++) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
-			String t = st.nextToken();
-			String r = st.nextToken();
-			hm.put(Integer.parseInt(t), r);
+			int a = Integer.parseInt(st.nextToken());
+			String b = st.nextToken();
+			hm.put(a, b);
 		}
 		
-		// 뱀시작지점 (1,1)
-		snake = new LinkedList<>();
-		snake.add(new int[] {1,1});
-		
-		int new_x;
-		int new_y;
-		int x=1;
-		int y=1;
-		int dir=0;
-		
-		// 뱀 움직이기 시작
-		while(true) {
-			time++;
-			
-			new_x=x+dx[dir];
-			new_y=y+dy[dir];
-			
-			if(finish(new_x, new_y)) {
-				break;
-			}
-			
-			if(map[new_x][new_y]==1) {
-				map[new_x][new_y]=0;
-				snake.add(new int[] {new_x,new_y});
-				// 사과가 있다면 머리추가
-			}else {
-				snake.add(new int[] {new_x,new_y});	//머리 추가해주고
-				snake.remove(0);
-				// 꼬리 삭제
-			}
-			
-			//x초가 끝난 뒤니까.. 뱀이 이동하고 난뒤에 방향 전환 
-			x=new_x;
-			y=new_y;
-			
-			if(hm.containsKey(time)) {
-				String d = hm.get(time);
-				if(d.equals("L")) {
-					dir--;
-					if(dir==-1) dir=3;
-				}else if(d.equals("D")) {
-					dir++;
-					if(dir==4) dir=0;
-				}
-			}
-		}
-		
+		//1,1 부터 시작
+		list = new LinkedList<>();
+		list.add(new int[] {1,1});
+		dfs(1,1,0);
 		System.out.println(time);
-
+		
 	}
 	
-	static boolean finish(int x, int y) {
-		// 범위에 벗어나거나
-		if(x<1 || y<1 || x>=n+1 || y>=n+1) return true;
+	static void dfs(int x,int y, int dir) {
+		time++;
+	
+		int new_x = x+dx[dir];
+		int new_y = y+dy[dir];
 		
-		// 몸통에 닿으면
-		for(int i=0;i<snake.size();i++) {
-			if(x==snake.get(i)[0] && y==snake.get(i)[1])
+		if(finish(new_x, new_y)) {
+			// 벽을 만나거나 뱀을 만나면 끝
+			return;
+		}
+		
+		if(map[new_x][new_y]==1) {
+			// 사과를 만나면
+			map[new_x][new_y]=0;
+			list.add(new int[] {new_x, new_y});
+			// 사과 먹고 머리 추가
+		}else {
+			// 사과가 없으면
+			// 머리추가하고 꼬리 삭제
+			list.add(new int[] {new_x, new_y});
+			list.remove(0);
+		}
+		
+		// 방향전환
+		if(hm.containsKey(time)) {
+			String d = hm.get(time);
+			if(d.equals("L")) {
+				dir--;
+				if(dir==-1) dir=3;
+			}else if(d.equals("D")) {
+				dir++;
+				if(dir==4) dir=0;	
+			}
+		}
+		
+		dfs(new_x,new_y,dir);
+	}
+
+	static boolean finish(int x, int y) {
+		if(x<1 || y<1 || x>=n+1 || y>=n+1) {
+			return true;
+		}
+		
+		for(int i=0;i<list.size();i++) {
+			if(x==list.get(i)[0] && y==list.get(i)[1]) {
 				return true;
+			}
 		}
 		
 		return false;
