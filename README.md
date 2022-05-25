@@ -125,6 +125,7 @@
 - [2609 최대공약수와 최소공배수](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week05/BOJ2609.java)
 - [11653 소인수분해](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week06/BOJ11653.java)
 - [1476 날짜 계산](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week09/BOJ1476.java)
+- [문자열/1316 그룹단어 체커](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week20/BOJ1316.java)
 
 ### Bronze 1
 - [1157 단어 공부](https://github.com/JegalEun/Algorithm_JAVA/blob/main/Week/Week02/BOJ1157.java)
